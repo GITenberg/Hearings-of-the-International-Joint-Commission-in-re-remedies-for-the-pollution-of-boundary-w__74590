@@ -1,0 +1,44 @@
+_repo: Hearings-of-the-International-Joint-Commission-in-re-remedies-for-the-pollution-of-boundary-w__74590
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Magrath, Charles A.
+    gutenberg_agent_id: '57567'
+    url: http://www.gutenberg.org/2009/agents/57567
+  - agent_name: Gardner, Obadiah
+    gutenberg_agent_id: '57570'
+    url: http://www.gutenberg.org/2009/agents/57570
+  - agent_name: Mignault, P. B.
+    gutenberg_agent_id: '57569'
+    url: http://www.gutenberg.org/2009/agents/57569
+  - agent_name: Powell, Henry A.
+    gutenberg_agent_id: '57568'
+    url: http://www.gutenberg.org/2009/agents/57568
+  - agent_name: Tawney, James A.
+    gutenberg_agent_id: '57571'
+    url: http://www.gutenberg.org/2009/agents/57571
+description: ''
+gutenberg_issued: '2024-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74590'
+language: en
+pgterms:marc904: https://archive.org/details/hearingsinrerem00inte/page/58/mode/2up
+pgterms:marc905: 20200422205501magrath
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Carol Brown, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited States :$bGovernment Printing Office, $c1916, reprint
+  1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hearings of the International Joint Commission in re remedies for the pollution
+  of boundary waters between the United States and Canada : $b Being public hearings
+  held at Buffalo, N.Y., and Detroit, Mich., June 21-27, 1916, and Ogdensburg, N.Y.,
+  August 25, 1916'
+url: http://www.gutenberg.org/ebooks/74590
